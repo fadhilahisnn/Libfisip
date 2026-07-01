@@ -1,0 +1,22 @@
+# Environment variables
+.env
+
+# Dependencies
+/vendor/
+/node_modules/
+
+# IDE
+/.idea/
+/.vscode/
+*.swp
+*.swo
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
+
+# Test files
+test_gemini.php
